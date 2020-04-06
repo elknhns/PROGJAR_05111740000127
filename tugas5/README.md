@@ -1,6 +1,7 @@
 # Tugas 5
-## Chat Protkol Sederhana
+## Chat Protokol Dasar
 
-Dokumentasi lengkap, screen capture ketika running, dan detail lainnya dapat dilihat pada https://docs.google.com/document/d/1qiUKCnUbCst8fWq5UjRZOmfYgLIjgEJ9vTao65-85iI/edit?usp=sharing
+Dokumentasi lengkap, screen capture, dan detail lainnya dapat dilihat pada
+https://docs.google.com/document/d/1CY5rtu4sPlodZ_ljFC4qON5gwX-M7BHdzXnCAhHMY9E/edit?usp=sharing
 
 Terima kasih.
