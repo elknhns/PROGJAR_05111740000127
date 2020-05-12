@@ -50,16 +50,16 @@
 
 **No Test**|**Concurrency level**|**Time taken for test (s)**|**Complete request**|**Failed request**|**Total transferred (bytes)**|**Request per second (#/sec)**|**Time per request (ms)**|**Transfer rate (Kbytes/sec)**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-1|1|b|1000|0|122000|b|b|b
-2|3|b|1000|0|122000|b|b|b
-3|5|b|1000|0|122000|b|b|b
-4|8|b|1000|0|122000|b|b|b
-5|10|b|1000|0|122000|b|b|b
+1|1|6.52|1000|0|122000|153.37|6.52|18.27
+2|3|7.3|1000|0|122000|136.99|21.9|16.32
+3|5|7.546|1000|0|122000|132.52|37.73|15.79
+4|8|5.701|1000|0|122000|175.41|45.607|20.9
+5|10|6.652|1000|0|122000|150.33|66.521|17.91
 
 
 ## Screenshot hasil run
 
-### Async Server HTTP
+### Async Server HTTP with LoadBalancer
 
 ![1](capture%20async%20with%20load%20balancer/loadbalancer_con_1.png)
 
