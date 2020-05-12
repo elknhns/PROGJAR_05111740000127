@@ -3,19 +3,19 @@
 
 1. Jalankan async_server.py pada port 9002, 9003, 9004, 9005
 
-![1](link)
+  ![1](capture%20async%20with%20load%20balancer/runserver.png)
 
 2. Jalankan file lb.py, dengan port 44444
 
-![2](link)
+  ![2](capture%20async%20with%20load%20balancer/run-lb_py.png)
 
 3. Akses pada browser, http://localhost:44444/page.html
 
-![3](link)
+  ![3](capture%20async%20with%20load%20balancer/page_html.png)
 
 4. Lihatlah di log program, bahwa setiap request akan dilayani oleh backend yang bergantian
 
-![3](link)
+  ![4](capture%20async%20with%20load%20balancer/request-satu-satu.png)
 
 5. Lakukan performance test seperti pada tugas 9, bandingkan penggunaan load balancer dengan async_server dengan server_thread_http pada folder progjar5
 * Jumlah request : 1000
@@ -61,8 +61,12 @@
 
 ### Async Server HTTP
 
-![1](link)
-![2](link)
-![3](link)
-![4](link)
-![5](link)
+![1](capture%20async%20with%20load%20balancer/loadbalancer_con_1.png)
+
+![2](capture%20async%20with%20load%20balancer/loadbalancer_con_3.png)
+
+![3](capture%20async%20with%20load%20balancer/loadbalancer_con_5.png)
+
+![4](capture%20async%20with%20load%20balancer/loadbalancer_con_8.png)
+
+![5](capture%20async%20with%20load%20balancer/loadbalancer_con_10.png)
